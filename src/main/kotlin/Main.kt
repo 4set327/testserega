@@ -9,7 +9,6 @@ fun main(args: Array<String>) {
 }
 
 fun test() {
-    println("Hello Serega!")
-    println("Hello Serega!")
+        println("Hello Serega!")
     println("Hello Serega!")
 }
